@@ -1,0 +1,3 @@
+Couchbase/node*
+node_modules
+*.key
